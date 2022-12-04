@@ -1,5 +1,5 @@
 # dataset link : https://s3.amazonaws.com/tripdata/index.html ;  download first one
-# install mongodb compass
+# install mongodb from https://www.mongodb.com/try/download/community . while installing click complete, next, tick Install mongo compass, next, install
 # Windows seach "services" select mongo server, right click on start
 # Find connection_string(line 14) by opening mongoDB compass and copy paste the URI
 # click connect; under database tab create database; database name = sample_training; collection = "trips"
