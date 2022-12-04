@@ -1,6 +1,6 @@
 # dataset link : https://s3.amazonaws.com/tripdata/index.html ;  download first one
 # install mongodb from https://www.mongodb.com/try/download/community . while installing click complete, next, tick Install mongo compass, next, install
-# Windows seach "services" select mongo server, right click on start
+# Windows seach "services" select mongo server, if not started, right click on start
 # Find connection_string(line 14) by opening mongoDB compass and copy paste the URI
 # click connect; under database tab create database; database name = sample_training; collection = "trips"
 # click on newly created databse; click on created collection; import data; select the downloaded data set in CSV format; import; run remaning comands
